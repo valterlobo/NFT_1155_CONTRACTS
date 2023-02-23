@@ -4,7 +4,7 @@ NFT Collection 1155 Contracts
 
 # Create Repositories
 
-## Add Submodules
+## Create  Submodules
 
     git submodule add <url-repositorio> diretorio
 
