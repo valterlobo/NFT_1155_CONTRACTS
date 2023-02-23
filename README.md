@@ -1,12 +1,16 @@
 # NFT_1155_CONTRACTS
-NFT Collection 1155 Contracts 
 
-# Create Repositories 
+NFT Collection 1155 Contracts
 
- ## Add Submodules
+# Create Repositories
+
+## Add Submodules
+
     git submodule add <url-repositorio> diretorio
 
-## Update 
+## Update
+
     git submodule update
-# Utilizando o Git Submodules 
-https://imasters.com.br/desenvolvimento/utilizando-o-git-submodules
+
+# Utilizando o Git Submodules
+<https://imasters.com.br/desenvolvimento/utilizando-o-git-submodules>
