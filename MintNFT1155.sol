@@ -1,10 +1,3 @@
-///////////////////////////////////////////////////////////
-//                                                       //
-//     Built with Cope.studio (https://cope.studio)      //
-//     Powered by Polygon (https://polygon.technology/)  //
-//                                                       //
-///////////////////////////////////////////////////////////
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -20,8 +13,6 @@ contract MintNFT1155 is ERC1155, ERC2771Context, Ownable {
     address public collectionOwner;
     address public collectionMinter;
 
-    //TODO: change the forwarder address while deploying to mainnet - 0x86C80a8aa58e0A4fa09A69624c31Ab2a6CAD56b8
-    //Testnet: 0x9399BB24DBB5C4b782C70c2969F58716Ebbd6a3b
     constructor(
         string memory _name,
         string memory _symbol,
